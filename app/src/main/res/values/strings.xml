@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tip Calculator :)</string>
+    <string name="mount_text">enter mount</string>
+    <string name="round_text">round</string>
+    <string name="bill_mount">Bill Amount</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip">Tip: </string>
+</resources>
